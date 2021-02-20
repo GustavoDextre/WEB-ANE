@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WEB-ANE/static/css/main.dcf7d3aa.chunk.css",
-    "main.js": "/WEB-ANE/static/js/main.e57a795d.chunk.js",
-    "main.js.map": "/WEB-ANE/static/js/main.e57a795d.chunk.js.map",
+    "main.js": "/WEB-ANE/static/js/main.e7903f37.chunk.js",
+    "main.js.map": "/WEB-ANE/static/js/main.e7903f37.chunk.js.map",
     "runtime-main.js": "/WEB-ANE/static/js/runtime-main.d08b42b3.js",
     "runtime-main.js.map": "/WEB-ANE/static/js/runtime-main.d08b42b3.js.map",
     "static/js/2.bc38b81f.chunk.js": "/WEB-ANE/static/js/2.bc38b81f.chunk.js",
@@ -11,12 +11,15 @@
     "static/js/3.73091bbf.chunk.js.map": "/WEB-ANE/static/js/3.73091bbf.chunk.js.map",
     "index.html": "/WEB-ANE/index.html",
     "static/css/main.dcf7d3aa.chunk.css.map": "/WEB-ANE/static/css/main.dcf7d3aa.chunk.css.map",
-    "static/js/2.bc38b81f.chunk.js.LICENSE.txt": "/WEB-ANE/static/js/2.bc38b81f.chunk.js.LICENSE.txt"
+    "static/js/2.bc38b81f.chunk.js.LICENSE.txt": "/WEB-ANE/static/js/2.bc38b81f.chunk.js.LICENSE.txt",
+    "static/media/Carlos.524073cd.jpg": "/WEB-ANE/static/media/Carlos.524073cd.jpg",
+    "static/media/Gustavo.d86eb74c.jpg": "/WEB-ANE/static/media/Gustavo.d86eb74c.jpg",
+    "static/media/Italo.f8c66703.jpg": "/WEB-ANE/static/media/Italo.f8c66703.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d08b42b3.js",
     "static/js/2.bc38b81f.chunk.js",
     "static/css/main.dcf7d3aa.chunk.css",
-    "static/js/main.e57a795d.chunk.js"
+    "static/js/main.e7903f37.chunk.js"
   ]
 }
